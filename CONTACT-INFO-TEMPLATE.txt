@@ -1,0 +1,105 @@
+====================================================
+VADORA SUPPLY SOLUTIONS - CONTACT INFORMATION
+====================================================
+
+Use this template to prepare your contact information before updating the website.
+Once filled out, you can easily copy and paste into index.html.
+
+====================================================
+BUSINESS INFORMATION
+====================================================
+
+Full Business Name:
+VADORA Supply Solutions (Pty) Ltd
+
+Tagline:
+Reliable Supply. Smarter Solutions.
+
+====================================================
+CONTACT DETAILS TO UPDATE
+====================================================
+
+1. BUSINESS ADDRESS:
+   [Write your full physical address here]
+   Example: 123 Industrial Road, Johannesburg, 2001, South Africa
+
+
+2. BUSINESS EMAIL:
+   [Write your business email here]
+   Example: info@vadorasupply.co.za
+
+
+3. BUSINESS HOURS:
+   [Write your operating hours here]
+   Example: Monday - Friday: 8:00 AM - 5:00 PM, Saturday: 9:00 AM - 1:00 PM
+
+
+4. TIKTOK PROFILE:
+   [Write your TikTok profile URL here]
+   Example: https://www.tiktok.com/@vadorasupply
+
+
+5. WHATSAPP NUMBER (Already configured):
+   076 159 5942
+   International format: +27 76 159 5942
+   WhatsApp link format: 27761595942
+
+====================================================
+ADDITIONAL OPTIONAL INFORMATION
+====================================================
+
+Additional Phone Number (if needed):
+[Write alternative phone number here]
+
+
+Facebook Page:
+[Write Facebook URL here]
+
+
+Instagram Profile:
+[Write Instagram URL here]
+
+
+LinkedIn Company Page:
+[Write LinkedIn URL here]
+
+
+Website Domain (once hosted):
+[Write your website URL here]
+Example: www.vadorasupply.co.za
+
+====================================================
+WHERE TO UPDATE IN index.html
+====================================================
+
+Search for these exact terms in index.html:
+
+1. [INSERT BUSINESS ADDRESS]     - Appears 2 times
+2. [INSERT BUSINESS EMAIL]       - Appears 2 times
+3. [INSERT BUSINESS HOURS]       - Appears 2 times
+4. [INSERT TIKTOK PROFILE URL]   - Appears 2 times
+
+Total: 8 replacements needed
+
+====================================================
+SEARCH & REPLACE INSTRUCTIONS
+====================================================
+
+1. Open index.html in a text editor (Notepad, VS Code, etc.)
+2. Press Ctrl+F (Windows) or Cmd+F (Mac) to open Find
+3. Search for: [INSERT
+4. Replace each occurrence with your actual information
+5. Save the file
+6. Open in browser to verify changes
+
+====================================================
+NOTES
+====================================================
+
+- Keep your address format consistent
+- Ensure email is typed correctly (no spaces)
+- Use clear, professional business hours format
+- TikTok URL should include https://
+- Test all links after updating
+
+====================================================
